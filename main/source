@@ -1,16 +1,16 @@
 --[[
 
 Rayfield Interface Suite
-by Crimson
+by Sentinal
 
-Crimson | Designing + Programming
+Sentinal | Designing + Programming
 Deadless  | Programming
 
 ]]
 
 
 
-local Release = "CrimsonWare"
+local Release = "Sentinal"
 local NotificationDuration = 6.5
 local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
