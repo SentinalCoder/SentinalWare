@@ -1,4 +1,4 @@
-# Rayfield Interface Suite
+# Sentinal Interface Suite
 This is the written documentation for Rayfield Interface Suite
 
 Last updated for the Beta 7R release
@@ -12,7 +12,7 @@ local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sent
 If the game you're trying to run Rayfield Interface Suite on, is detecting or crashing when you use Rayfield Interface Suite, try using Secure Mode:
 - Place `getgenv().SecureMode = true` above the initial Rayfield loadstring
 
-Rayfield will now use Secure Mode and attempt to reduce detection
+Sentinal will now use Secure Mode and attempt to reduce detection
 - Note: This may cause some elements of the UI to look lower quality or may increase loading times slightly
 
 ### Enabling Configuration Saving
